@@ -35,7 +35,7 @@
 
 ### 🤝 contact Me
 <p>
-  <a href="https://www.linkedin.com/in/[YOUR_LINK](https://www.linkedin.com/in/dilmi-ishara-b19a43375?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8wlp51wPTaSBx%2Fjd2d5u1Q%3D%3D)">
+  <a href="https://www.linkedin.com/in/linkedin.com/in/dilmi-ishara-b19a43375(https://www.linkedin.com/in/dilmi-ishara-b19a43375?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8wlp51wPTaSBx%2Fjd2d5u1Q%3D%3D)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   
