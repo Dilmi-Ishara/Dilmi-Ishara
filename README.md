@@ -1,51 +1,86 @@
-# Hi there 👋, I'm Ishara Sandeepani
+<div align="center">
 
+# Hi there 👋, I'm Dilmi Ishara Sandeepani
 
+### 💻 Software Engineering Student | Aspiring Software Developer
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,css" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer+in+Progress;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman,androidstudio" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,arduino,nodejs,mysql,ubuntu,react,kotlin" />
-</p>
+</div>
 
 ---
 
-### 👩‍💻 About Me
-- 👩‍🎓 Software Engineering Student  
-- 🎓 Following a Degree Programme at **NIBM**  
-- 🌍 Live in **Sri Lanka**  
-- 💻 Aspiring **Software Developer**  
+## 👩‍💻 About Me
+
+- 👩‍🎓 Software Engineering Student
+- 🎓 Following a Degree Programme at **NIBM**
+- 🌍 Live in **Sri Lanka**
+- 💻 Aspiring **Full Stack Developer**
+- 🌱 Currently learning **React.js**, **Spring Boot** & **MongoDB**
+- ⚡ Fun fact: I love turning ideas into real applications!
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages & Tools:**
-- Java | JavaScript | PHP | HTML | CSS  
-- React.js | Spring Boot  
-- MySQL | Git | GitHub  
-- VS Code | IntelliJ IDEA
 
----
+### 🖥️ Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,cs,php,kotlin" />
+</p>
 
-### 🤝 contact Me
-<p>
-  <a href="https://www.linkedin.com/in/dilmi-ishara-b19a43375(https://www.linkedin.com/in/dilmi-ishara-b19a43375?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8wlp51wPTaSBx%2Fjd2d5u1Q%3D%3D)">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="mailto:dilmiishara303@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,visualstudio,androidstudio,arduino,ubuntu" />
 </p>
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*
+## 📊 GitHub Stats
 
+<div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dilmi-Ishara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilmi-Ishara&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilmi-Ishara&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dilmi-ishara-b19a43375)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:dilmiishara303@gmail.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Dilmi-Ishara)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dilmi-Ishara&color=6A5ACD&style=flat-square)
+
+⭐ *Thanks for visiting my profile — feel free to explore my repositories!*
+
+</div>
